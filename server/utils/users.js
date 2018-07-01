@@ -1,6 +1,6 @@
 [{
   id: 'asdasdasd',
-  names: 'Andrew',
+  name: 'Andrew',
   room: 'The Office Fans'
 }]
 
